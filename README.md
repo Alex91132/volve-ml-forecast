@@ -57,4 +57,4 @@ python make_notebook.py && jupyter nbconvert --to notebook --execute --inplace v
 
 1. [Volve EDA](https://github.com/Alex91132/volve-eda) — качество данных, гипотезы, decline;
 2. этот репозиторий — ML-прогноз дебита;
-3. Survival-анализ времени до обводнения (в работе).
+3. [Volve Survival](https://github.com/Alex91132/volve-survival) — survival-анализ времени до обводнения.
